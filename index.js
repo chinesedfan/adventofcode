@@ -12,7 +12,7 @@ if (args.length < 1) {
 day = args.shift();
 part = 1;
 if (args.length > 0) {
-	part = args[1];
+	part = args.shift();
 }
 
 solve = require('./lib/day' + day);
