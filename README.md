@@ -7,4 +7,6 @@ The difficulty of these puzzles is much less than Online Judge problems'. Even y
 And the author provides a very interesting website!
 
 ps.  
-- I use lots of regular expressions to parse the input. Remeber to covert `string` to `int`.
+- Remeber to call `parseInt` when parsing the input by regular expressions.  
+- Do not try to find answers by binary search. The server will reject your submission after you have failed too much times.  
+- How to run? `node index.js <day> [part]`, by default, `part` is `1`.
