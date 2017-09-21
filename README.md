@@ -7,11 +7,75 @@ The difficulty of these puzzles is much less than Online Judge problems'. Even y
 And the author provides a very interesting website!
 
 ps.  
-- Remeber to call `parseInt` when parsing the input by regular expressions.  
+- Remember to call `parseInt` when parsing the input by regular expressions.  
 - Do not try to find answers by binary search. The server will reject your submission after you have failed too much times.  
-- Several puzzles are solved by brute force searching, like:  
-   - 2015: day 9/13/14/15/19/20/21/22/24.
+- Solve puzzles by brute force searching if it is hard to find reasonable algorithms. Or go to [reddit](https://www.reddit.com/r/adventofcode/)
 
 ## How to run
 
 - `[YEAR=2015] node index.js <day> [part] < input.txt`, by default, `part` is `1`.  
+- `[YEAR=2015] node index.js <day> [part] -f input.txt`
+
+## Summary
+
+For hardness: S(Simple), M(Middle), H(Hard).
+
+### 2015
+
+| day | hardness | keywords                        |
+| --- |:--------:| -------------------------------:|
+|  1  |   S/S    | iteration                       |
+|  2  |   S/S    | iteration                       |
+|  3  |   S/S    | simulation                      |
+|  4  |   S/S    | md5                             |
+|  5  |   S/S    | filter strings                  |
+|  6  |   S/S    | simulation                      |
+|  7  |   M/M    | post-order tree travling        |
+|  8  |   S/S    | string replacement              |
+|  9  |   S/S    | permutation                     |
+| 10  |   S/S    | iteration                       |
+| 11  |   S/S    | filter strings                  |
+| 12  |   S/S    | recursion                       |
+| 13  |   S/S    | permutation                     |
+| 14  |   S/S    | simulation                      |
+| 15  |   S/S    | permutation                     |
+| 16  |   S/S    | filter                          |
+| 17  |   M/M    | dynamic programming             |
+| 18  |   S/S    | simulation                      |
+| 19  |   S/H    | iteration/special laws          |
+| 20  |   M/M    | find bound                      |
+| 21  |   M/M    | permutation                     |
+| 22  |   H/H    | dfs                             |
+| 23  |   S/S    | cpu                             |
+| 24  |   M/M    | dynamic programming             |
+| 25  |   S/-    | iteration                       |
+
+### 2016
+
+| day | hardness | keywords                        |
+| --- |:--------:| -------------------------------:|
+|  1  |   S/S    | simulation                      |
+|  2  |   S/S    | simulation                      |
+|  3  |   S/S    | filter                          |
+|  4  |   S/S    | filter                          |
+|  5  |   S/S    | md5                             |
+|  6  |   S/S    | array operations                |
+|  7  |   S/S    | filter                          |
+|  8  |   S/S    | simulation                      |
+|  9  |   S/S    | string replacement/recursion    |
+| 10  |   S/S    | simulation                      |
+| 11  |   H/H    | bfs, optimizationi              |
+| 12  |   S/S    | cpu                             |
+| 13  |   H/H    | bfs                             |
+| 14  |   S/S    | md5                             |
+| 15  |   S/S    | iteration                       |
+| 16  |   S/S    | iteration                       |
+| 17  |   M/M    | md5, bfs                        |
+| 18  |   S/S    | iteration                       |
+| 19  |   H/H    | find laws/dynamic programming   |
+| 20  |   M/M    | merge intervals                 |
+| 21  |   S/S    | simulation                      |
+| 22  |   S/H    | filter/bfs with special laws    |
+| 23  |   S/M    | cpu/optimization                |
+| 24  |   M/M    | bfs, permutation                |
+| 25  |   S/-    | cpu, find first                 |
