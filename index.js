@@ -2,7 +2,7 @@ var fs = require('fs');
 var path = require('path');
 
 var args = process.argv.slice(2);
-var year = process.env.YEAR || '2015';
+var year = process.env.YEAR || (new Date()).getFullYear();
 var day, part, solve;
 
 if (args.length < 1) {

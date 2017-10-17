@@ -13,7 +13,9 @@ ps.
 
 ## How to run
 
-- `[YEAR=2015] node index.js <day> [part] < input.txt`, by default, `part` is `1`.  
+By default, `part` is `1`, and `YEAR` is the current year.
+
+- `[YEAR=2015] node index.js <day> [part] < input.txt`
 - `[YEAR=2015] node index.js <day> [part] -f input.txt`
 
 ## Summary
