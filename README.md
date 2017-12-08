@@ -87,6 +87,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
 |  1  |   S/S    | iteration                       |
+|  2  |   S/S    | iteration                       |
 
 ## Bonus
 
