@@ -92,6 +92,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  4  |   S/S    | filter strings                  |
 |  5  |   S/S    | iteration                       |
 |  6  |   S/S    | simulation                      |
+|  7  |   S/S    | tree simulation/recursion       |
 
 ## Bonus
 
