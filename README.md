@@ -90,6 +90,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  2  |   S/S    | iteration                       |
 |  3  |   S/M    | find laws/iteration             |
 |  4  |   S/S    | filter strings                  |
+|  5  |   S/S    | iteration                       |
 
 ## Bonus
 
