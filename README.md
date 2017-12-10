@@ -93,6 +93,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  5  |   S/S    | iteration                       |
 |  6  |   S/S    | simulation                      |
 |  7  |   S/S    | tree simulation/recursion       |
+|  8  |   S/S    | simple cpu simulation           |
 
 ## Bonus
 
