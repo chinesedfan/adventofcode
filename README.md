@@ -97,6 +97,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  9  |   S/S    | iteration                       |
 | 10  |   S/S    | simulation                      |
 | 11  |   S/S    | find laws/simulation            |
+| 12  |   S/S    | bfs                             |
 
 ## Bonus
 
