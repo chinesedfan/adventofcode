@@ -101,6 +101,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 13  |   S/S    | simulation/find first           |
 | 14  |   S/M    | iteration/bfs                   |
 | 15  |   S/S    | iteration                       |
+| 16  |   S/M    | simulation/find laws            |
 
 ## Bonus
 
