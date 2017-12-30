@@ -88,7 +88,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | --- |:--------:| -------------------------------:|
 |  1  |   S/S    | iteration                       |
 |  2  |   S/S    | iteration                       |
-|  3  |   S/M    | find laws/iteration             |
+|  3  |   S/M    | find laws/infinite grid         |
 |  4  |   S/S    | filter strings                  |
 |  5  |   S/S    | iteration                       |
 |  6  |   S/S    | simulation                      |
@@ -105,6 +105,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 17  |   S/S    | iteration                       |
 | 18  |   S/M    | cpu                             |
 | 19  |   S/S    | simulation                      |
+| 22  |   S/S    | infinite grid                   |
 
 ## Bonus
 
