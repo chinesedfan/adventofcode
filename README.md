@@ -105,6 +105,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 17  |   S/S    | iteration                       |
 | 18  |   S/M    | cpu                             |
 | 19  |   S/S    | simulation                      |
+| 21  |   M/M    | iterate grid                    |
 | 22  |   S/S    | infinite grid                   |
 
 ## Bonus
