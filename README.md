@@ -107,6 +107,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 19  |   S/S    | simulation                      |
 | 21  |   M/M    | iterate grid                    |
 | 22  |   S/S    | infinite grid                   |
+| 24  |   S/S    | dfs                             |
 
 ## Bonus
 
