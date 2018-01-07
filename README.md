@@ -108,6 +108,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 21  |   M/M    | iterate grid                    |
 | 22  |   S/S    | infinite grid                   |
 | 24  |   S/S    | dfs                             |
+| 25  |   S/-    | turing machine                  |
 
 ## Bonus
 
