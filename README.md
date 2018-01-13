@@ -108,6 +108,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 20  |   S/M    | find stable/filter collisions   |
 | 21  |   M/M    | iterate grid                    |
 | 22  |   S/S    | infinite grid                   |
+| 23  |   S/H    | cpu/assembly to filter primes   |
 | 24  |   S/S    | dfs                             |
 | 25  |   S/-    | turing machine                  |
 
