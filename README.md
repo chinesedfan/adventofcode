@@ -117,6 +117,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
 |  1  |   S/S    | iteration                       |
+|  1  |   S/S    | filter strings/sort then diff   |
 
 ## Bonus
 
