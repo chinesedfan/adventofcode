@@ -120,6 +120,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  2  |   S/S    | filter strings/sort then diff   |
 |  3  |   S/S    | simulation                      |
 |  4  |   M/M    | simulation                      |
+|  5  |   S/S    | iteration                       |
 
 ## Bonus
 
