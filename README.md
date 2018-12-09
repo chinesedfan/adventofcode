@@ -122,6 +122,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  4  |   M/M    | simulation                      |
 |  5  |   S/S    | merge with stack                |
 |  7  |   S/M    | typology sorting/simulation     |
+|  8  |   S/S    | string parsing/recursion        |
 
 ## Bonus
 
