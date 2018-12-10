@@ -22,7 +22,8 @@ By default, `part` is `1`, and `YEAR` is the current year.
 
 For hardness: S(Simple), M(Middle), H(Hard).
 
-### 2015
+<details>
+  <summary>2015</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
@@ -52,7 +53,10 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 24  |   M/M    | dynamic programming             |
 | 25  |   S/-    | iteration                       |
 
-### 2016
+</details>
+
+<details>
+  <summary>2016</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
@@ -82,7 +86,10 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 24  |   M/M    | bfs, permutation                |
 | 25  |   S/-    | cpu, find first                 |
 
-### 2017
+</details>
+
+<details>
+  <summary>2017</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
@@ -111,6 +118,8 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 23  |   S/H    | cpu/assembly to filter primes   |
 | 24  |   S/S    | dfs                             |
 | 25  |   S/-    | turing machine                  |
+
+</details>
 
 ### 2018
 
