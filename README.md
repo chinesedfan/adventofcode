@@ -138,7 +138,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 
 ## Bonus
 
-Download `input.txt` [here](https://gist.githubusercontent.com/topaz/15518587415ccd0468767aed4192bfd3/raw/c5bfd6a7d40eabe1ae8b9a0fb36a939cb0c5ddf4/bonuschallenge.txt).
+Released at [reddit](https://www.reddit.com/r/adventofcode/comments/72aizu/bonus_challenge/). You can download `input.txt` directly from [here](https://gist.githubusercontent.com/topaz/15518587415ccd0468767aed4192bfd3/raw/c5bfd6a7d40eabe1ae8b9a0fb36a939cb0c5ddf4/bonuschallenge.txt).
 
 - `YEAR=2016 node index.js 26 < input.txt > bonus.out.1`
 - `YEAR=2016 node index.js 8 2 < bonus.out.1`
