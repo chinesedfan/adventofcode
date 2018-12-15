@@ -136,6 +136,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  9  |   S/M    | simulation                      |
 | 10  |   M/S    | auto scale                      |
 | 11  |   S/M    | find the max sum rectangle      |
+| 12  |   S/S    | simulation/find loop            |
 
 ## Bonus
 
