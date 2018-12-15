@@ -135,6 +135,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  8  |   S/S    | string parsing/recursion        |
 |  9  |   S/M    | simulation                      |
 | 10  |   M/S    | auto scale                      |
+| 11  |   S/M    | find the max sum rectangle      |
 
 ## Bonus
 
