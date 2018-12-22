@@ -142,6 +142,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 16  |   S/S    | cpu                             |
 | 18  |   S/S    | simulation/find loop            |
 | 19  |   S/S    | cpu/find logic                  |
+| 21  |   S/S    | cpu to find logic               |
 
 ## Bonus
 
