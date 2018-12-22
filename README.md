@@ -141,6 +141,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 14  |   S/S    | iteration/string match          |
 | 16  |   S/S    | cpu                             |
 | 18  |   S/S    | simulation/find loop            |
+| 19  |   S/S    | cpu/find logic                  |
 
 ## Bonus
 
