@@ -144,6 +144,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 19  |   S/S    | cpu/find logic                  |
 | 21  |   S/S    | cpu to find logic               |
 | 22  |   S/M    | dp/bfs                          |
+| 24  |   S/S    | simulation/find bound           |
 
 ## Bonus
 
