@@ -147,6 +147,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 20  |   S/S    | parse regexp and bfs            |
 | 21  |   S/S    | cpu to find logic               |
 | 22  |   S/M    | dp/bfs                          |
+| 23  |   S/H    | filter/max clique               |
 | 24  |   S/S    | simulation/find bound           |
 | 25  |   S/-    | bfs                             |
 
