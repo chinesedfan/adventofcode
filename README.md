@@ -121,7 +121,8 @@ For hardness: S(Simple), M(Middle), H(Hard).
 
 </details>
 
-### 2018
+<details>
+  <summary>2018</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
@@ -150,6 +151,14 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 23  |   S/H    | filter/max clique               |
 | 24  |   S/S    | simulation/find bound           |
 | 25  |   S/-    | bfs                             |
+
+</details>
+
+### 2019
+
+| day | hardness | keywords                        |
+| --- |:--------:| -------------------------------:|
+|  1  |   S/S    | iteration                       |
 
 ## Bonus
 
