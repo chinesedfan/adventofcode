@@ -161,6 +161,8 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  1  |   S/S    | iteration                       |
 |  2  |   S/S    | cpu                             |
 |  3  |   M/S    | line cross                      |
+|  4  |   S/S    | filter numbers                  |
+|  5  |   S/S    | cpu                             |
 
 ## Bonus
 
