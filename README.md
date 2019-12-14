@@ -163,6 +163,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  3  |   M/S    | line cross                      |
 |  4  |   S/S    | filter numbers                  |
 |  5  |   S/S    | cpu                             |
+|  6  |   S/S    | bfs/nearest common ancestor     |
 
 ## Bonus
 
