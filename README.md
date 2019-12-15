@@ -164,6 +164,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  4  |   S/S    | filter numbers                  |
 |  5  |   S/S    | cpu                             |
 |  6  |   S/S    | bfs/nearest common ancestor     |
+|  7  |   S/M    | cpu/generators                  |
 |  8  |   S/S    | count numbers/print and see     |
 
 ## Bonus
