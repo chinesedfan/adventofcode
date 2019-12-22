@@ -170,6 +170,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 10  |   M/M    | check connectivity/sort by k    |
 | 12  |   S/-    | n-object simulation/-           |
 | 16  |   S/-    | fft simulation                  |
+| 17  |   S/-    | find intersections              |
 
 ## Bonus
 
