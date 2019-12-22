@@ -166,6 +166,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  6  |   S/S    | bfs/nearest common ancestor     |
 |  7  |   S/M    | cpu/generators                  |
 |  8  |   S/S    | count numbers/print and see     |
+|  9  |   M/-    | big numbers cpu                 |
 | 10  |   M/M    | check connectivity/sort by k    |
 | 12  |   S/-    | n-object simulation/-           |
 
