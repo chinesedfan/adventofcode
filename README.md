@@ -169,6 +169,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  9  |   M/-    | big numbers cpu                 |
 | 10  |   M/M    | check connectivity/sort by k    |
 | 12  |   S/-    | n-object simulation/-           |
+| 13  |   S/-    | cpu output                      |
 | 16  |   S/-    | fft simulation                  |
 | 17  |   S/-    | find intersections              |
 
