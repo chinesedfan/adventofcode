@@ -173,6 +173,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 13  |   S/-    | cpu output map                  |
 | 16  |   S/-    | fft simulation                  |
 | 17  |   S/-    | find intersections              |
+| 22  |   S/-    | shuffle simulation              |
 
 ## Bonus
 
