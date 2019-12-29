@@ -174,7 +174,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 16  |   S/-    | fft simulation                  |
 | 17  |   S/-    | find intersections              |
 | 22  |   S/-    | shuffle simulation              |
-| 24  |   S/-    | life game simulation            |
+| 24  |   S/S    | life game simulation            |
 
 ## Bonus
 
