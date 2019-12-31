@@ -171,6 +171,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 11  |   S/S    | cpu count visited/print and see |
 | 12  |   S/-    | n-object simulation/-           |
 | 13  |   S/-    | cpu output map                  |
+| 14  |   S/-    | typology sorting                |
 | 16  |   S/-    | fft simulation                  |
 | 17  |   S/-    | find intersections              |
 | 22  |   S/-    | shuffle simulation              |
