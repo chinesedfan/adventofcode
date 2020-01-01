@@ -175,8 +175,14 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 15  |   S/S    | bfs                             |
 | 16  |   S/-    | fft simulation                  |
 | 17  |   S/-    | find intersections              |
+| 18  |   -/-    | shortest path                   |
+| 19  |   -/-    | count                           |
+| 20  |   -/-    | shortest path                   |
+| 21  |   -/-    | boolean cpu                     |
 | 22  |   S/-    | shuffle simulation              |
+| 23  |   -/-    | multiple cpus                   |
 | 24  |   S/S    | life game simulation            |
+| 25  |   -/-    | cpu rpg                         |
 
 ## Bonus
 
