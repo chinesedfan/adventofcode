@@ -173,7 +173,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 13  |   S/-    | cpu output map                  |
 | 14  |   S/S    | typology sorting/binary search  |
 | 15  |   S/S    | bfs                             |
-| 16  |   S/-    | fft simulation                  |
+| 16  |   S/M    | fft simulation                  |
 | 17  |   S/-    | find intersections              |
 | 18  |   -/-    | shortest path                   |
 | 19  |   -/-    | count                           |
