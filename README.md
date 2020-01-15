@@ -190,3 +190,10 @@ Released at [reddit](https://www.reddit.com/r/adventofcode/comments/72aizu/bonus
 
 - `YEAR=2016 node index.js 26 < input.txt > bonus.out.1`
 - `YEAR=2016 node index.js 8 2 < bonus.out.1`
+
+## Thanks to
+
+- [petertseng](https://github.com/petertseng), first met in [reddit](https://www.reddit.com/r/adventofcode/comments/5hoia9/2016_day_11_solutions/db1v1ws/) for 2016/day11, who also has full solutions in Ruby/Haskell/Rust/D.
+- [sguest](https://github.com/sguest/advent-of-code), for solving 2018/day22, with Javascript solutions of each year.
+- [albertobastos](https://github.com/albertobastos/advent-of-code-2018-nodejs), for solving 2018/day15, with partial solutions of 2018 in Javascript.
+- [kufii](https://github.com/kufii/Advent-Of-Code-2019-Solutions), provides a cool [website](https://kufii.github.io/Advent-Of-Code-2019-Solutions/) to show 2019 Javascript solutions.
