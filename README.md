@@ -169,7 +169,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 |  9  |   M/S    | big numbers cpu                 |
 | 10  |   M/M    | check connectivity/sort by k    |
 | 11  |   S/S    | cpu count visited/print and see |
-| 12  |   S/-    | n-object simulation/-           |
+| 12  |   S/M    | n-object simulation/lcm         |
 | 13  |   S/-    | cpu output map                  |
 | 14  |   S/S    | typology sorting/binary search  |
 | 15  |   S/S    | bfs                             |
