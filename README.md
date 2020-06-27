@@ -174,7 +174,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 14  |   S/S    | typology sorting/binary search  |
 | 15  |   S/S    | bfs                             |
 | 16  |   S/M    | fft simulation                  |
-| 17  |   S/-    | find intersections              |
+| 17  |   S/M    | find intersections/cut routes   |
 | 18  |   -/-    | shortest path                   |
 | 19  |   S/-    | count                           |
 | 20  |   M/-    | shortest path                   |
