@@ -178,7 +178,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 18  |   -/-    | shortest path                   |
 | 19  |   S/S    | count/find                      |
 | 20  |   M/-    | shortest path                   |
-| 21  |   -/-    | boolean cpu                     |
+| 21  |   M/H    | boolean cpu programming         |
 | 22  |   S/-    | shuffle simulation              |
 | 23  |   -/-    | multiple cpus                   |
 | 24  |   S/S    | life game simulation            |
