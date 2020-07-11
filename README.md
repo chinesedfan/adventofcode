@@ -177,7 +177,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 17  |   S/M    | find intersections/cut routes   |
 | 18  |   -/-    | shortest path                   |
 | 19  |   S/S    | count/find                      |
-| 20  |   M/-    | shortest path                   |
+| 20  |   M/M    | shortest path                   |
 | 21  |   M/H    | boolean cpu programming         |
 | 22  |   S/-    | shuffle simulation              |
 | 23  |   M/M    | multiple cpus                   |
