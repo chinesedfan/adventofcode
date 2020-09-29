@@ -170,12 +170,12 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 10  |   M/M    | check connectivity/sort by k    |
 | 11  |   S/S    | cpu count visited/print and see |
 | 12  |   S/M    | n-object simulation/lcm         |
-| 13  |   S/-    | cpu output map                  |
+| 13  |   S/H    | cpu output map/game simulation  |
 | 14  |   S/S    | typology sorting/binary search  |
 | 15  |   S/S    | bfs                             |
 | 16  |   S/M    | fft simulation                  |
 | 17  |   S/M    | find intersections/cut routes   |
-| 18  |   -/-    | shortest path                   |
+| 18  |   M/-    | shortest path                   |
 | 19  |   S/S    | count/find                      |
 | 20  |   M/M    | shortest path                   |
 | 21  |   M/H    | boolean cpu programming         |

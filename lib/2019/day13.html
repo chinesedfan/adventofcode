@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Day 13</title>
+</head>
+<body style="font-family: monospace;">
+<div id="content"></div>
+<script type="text/javascript">
+    var module = {};
+    var require = () => ({});
+</script>
+<script type="text/javascript" src="./day13.js"></script>
+<!-- YEAR=2019 node index.js 13 2 < test/day13.txt > test/13/output -->
+<script type="text/javascript" src="../../test/13/output"></script>
+<script type="text/javascript">
+var div = document.getElementById('content');
+var grid = init(30, 45);
+
+var idx = 0;
+while (idx < dots.length) {
+    var d = dots[idx++];
+    updateDot(grid, d);
+    div.innerHTML = getContent(grid);
+    // skip to the ball appeared
+    if (d[2] === 3) break;
+}
+
+var timer = setInterval(() => {
+    if (idx < dots.length) {
+        console.log(`${idx}/${dots.length}`, dots[idx]);
+        if (updateDot(grid, dots[idx++])) {
+            div.innerHTML = getContent(grid);
+        }
+    } else {
+        clearInterval(timer);
+    }
+}, 20);
+
+function init(w, h) {
+    const result = [];
+    for (let i = 0; i < h; i++) {
+        result[i] = [];
+        for (let j = 0; j < w; j++) {
+            result[i].push('.');
+        }
+    }
+    return result;
+}
+function updateDot(grid, [x, y, n]) {
+    if (x >= 0 && x < grid.length
+        && y >= 0 && y < grid[0].length) {
+        grid[x][y] = n;
+        return true;
+    }
+}
+function getContent(grid) {
+    const result = [];
+    for (let i = 0; i < grid.length; i++) {
+        result[i] = [];
+        for (let j = 0; j < grid[i].length; j++) {
+            const ch = grid[i][j] || '.';
+            result[i].push(ch);
+        }
+    }
+
+    return result.map((r) => r.join('')).join('<br/>');
+}
+</script>
+</body>
+</html>
