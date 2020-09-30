@@ -13,5 +13,8 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "debug": "^2.2.0"
   }
 }
