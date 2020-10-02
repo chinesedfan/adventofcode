@@ -1,0 +1,31 @@
+east
+north
+north
+take spool of cat6
+south
+east
+take mug
+north
+north
+west
+take asterisk
+south
+take monolith
+north
+east
+south
+east
+take sand
+south
+west
+take prime number
+east
+north
+east
+north
+south
+south
+take tambourine
+west
+take festive hat
+north
