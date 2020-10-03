@@ -29,3 +29,8 @@ take tambourine
 west
 take festive hat
 north
+drop festive hat
+drop monolith
+drop mug
+drop spool of cat6
+west

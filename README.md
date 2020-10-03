@@ -182,7 +182,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 22  |   S/-    | shuffle simulation              |
 | 23  |   M/M    | multiple cpus                   |
 | 24  |   S/S    | life game simulation            |
-| 25  |   -/-    | cpu rpg                         |
+| 25  |   M/-    | cpu rpg                         |
 
 Different scripts for day 25,
 
