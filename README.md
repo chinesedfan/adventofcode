@@ -184,6 +184,13 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 24  |   S/S    | life game simulation            |
 | 25  |   -/-    | cpu rpg                         |
 
+Different scripts for day 25,
+
+- day25.js, normal program but has `-i` option to load commands
+- day25-map.js, searching for all rooms
+- day25-input.txt, according to the rooms map, collect items and go to the checkpoint room 
+- day25-drop.js, try each possible combinations of items to pass the weight check
+
 ## Bonus
 
 Released at [reddit](https://www.reddit.com/r/adventofcode/comments/72aizu/bonus_challenge/). You can download `input.txt` directly from [here](https://gist.githubusercontent.com/topaz/15518587415ccd0468767aed4192bfd3/raw/c5bfd6a7d40eabe1ae8b9a0fb36a939cb0c5ddf4/bonuschallenge.txt).
