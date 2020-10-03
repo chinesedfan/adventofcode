@@ -179,7 +179,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 19  |   S/S    | count/find                      |
 | 20  |   M/M    | shortest path                   |
 | 21  |   M/H    | boolean cpu programming         |
-| 22  |   S/-    | shuffle simulation              |
+| 22  |   S/H    | shuffle simulation/number theory|
 | 23  |   M/M    | multiple cpus                   |
 | 24  |   S/S    | life game simulation            |
 | 25  |   M/-    | cpu rpg                         |
@@ -204,3 +204,4 @@ Released at [reddit](https://www.reddit.com/r/adventofcode/comments/72aizu/bonus
 - [sguest](https://github.com/sguest/advent-of-code), for solving 2018/day22, with Javascript solutions of each year.
 - [albertobastos](https://github.com/albertobastos/advent-of-code-2018-nodejs), for solving 2018/day15, with partial solutions of 2018 in Javascript.
 - [kufii](https://github.com/kufii/Advent-Of-Code-2019-Solutions), provides a cool [website](https://kufii.github.io/Advent-Of-Code-2019-Solutions/) to show 2019 Javascript solutions.
+- [mcpower](https://github.com/mcpower/adventofcode), also met in [reddit](https://www.reddit.com/r/adventofcode/comments/ee0rqi/2019_day_22_solutions/fbnkaju/) for 2019/day22, and has solutions for 2016(partial)/17/18/19 in Python/Rust.
