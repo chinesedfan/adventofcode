@@ -175,7 +175,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 | 15  |   S/S    | bfs                             |
 | 16  |   S/M    | fft simulation                  |
 | 17  |   S/M    | find intersections/cut routes   |
-| 18  |   M/-    | shortest path                   |
+| 18  |   M/H    | shortest path                   |
 | 19  |   S/S    | count/find                      |
 | 20  |   M/M    | shortest path                   |
 | 21  |   M/H    | boolean cpu programming         |
