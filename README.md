@@ -154,7 +154,8 @@ For hardness: S(Simple), M(Middle), H(Hard).
 
 </details>
 
-### 2019
+<details>
+  <summary>2019</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
@@ -190,6 +191,16 @@ Different scripts for day 25,
 - day25-map.js, searching for all rooms
 - day25-input.txt, according to the rooms map, collect items and go to the checkpoint room 
 - day25-drop.js, try each possible combinations of items to pass the weight check
+
+</details>
+
+### 2020
+
+| day | hardness | keywords                        |
+| --- |:--------:| -------------------------------:|
+|  1  |   S/S    | 2 sum/3 sum                     |
+|  2  |   S/S    | filter strings                  |
+|  3  |   S/S    | count                           |
 
 ## Bonus
 
