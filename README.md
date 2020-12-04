@@ -201,6 +201,7 @@ Different scripts for day 25,
 |  1  |   S/S    | 2 sum/3 sum                     |
 |  2  |   S/S    | filter strings                  |
 |  3  |   S/S    | count                           |
+|  4  |   S/S    | filter strings                  |
 
 ## Bonus
 
