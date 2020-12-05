@@ -202,6 +202,7 @@ Different scripts for day 25,
 |  2  |   S/S    | filter strings                  |
 |  3  |   S/S    | count                           |
 |  4  |   S/S    | filter strings                  |
+|  5  |   S/S    | iteration/print and see         |
 
 ## Bonus
 
