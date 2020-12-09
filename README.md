@@ -204,6 +204,9 @@ Different scripts for day 25,
 |  4  |   S/S    | filter strings                  |
 |  5  |   S/S    | iteration/print and see         |
 |  6  |   S/S    | count                           |
+|  7  |   S/S    | bfs                             |
+|  8  |   S/S    | cpu                             |
+|  9  |   S/S    | filter/two points               |
 
 ## Bonus
 
