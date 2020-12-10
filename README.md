@@ -207,6 +207,7 @@ Different scripts for day 25,
 |  7  |   S/S    | bfs                             |
 |  8  |   S/S    | cpu                             |
 |  9  |   S/S    | filter/two points               |
+| 10  |   S/S    | sort and count/dp               |
 
 ## Bonus
 
