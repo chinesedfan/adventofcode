@@ -208,6 +208,7 @@ Different scripts for day 25,
 |  8  |   S/S    | cpu                             |
 |  9  |   S/S    | filter/two points               |
 | 10  |   S/S    | sort and count/dp               |
+| 11  |   S/S    | life games simulation           |
 
 ## Bonus
 
