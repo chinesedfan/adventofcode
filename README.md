@@ -209,6 +209,7 @@ Different scripts for day 25,
 |  9  |   S/S    | filter/two points               |
 | 10  |   S/S    | sort and count/dp               |
 | 11  |   S/S    | life games simulation           |
+| 12  |   S/S    | moving iteration                |
 
 ## Bonus
 
