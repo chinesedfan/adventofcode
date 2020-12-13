@@ -210,6 +210,7 @@ Different scripts for day 25,
 | 10  |   S/S    | sort and count/dp               |
 | 11  |   S/S    | life games simulation           |
 | 12  |   S/S    | moving iteration                |
+| 13  |   S/M    | find min/number theory          |
 
 ## Bonus
 
