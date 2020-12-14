@@ -211,6 +211,7 @@ Different scripts for day 25,
 | 11  |   S/S    | life games simulation           |
 | 12  |   S/S    | moving iteration                |
 | 13  |   S/M    | find min/number theory          |
+| 14  |   S/S    | bits iteration                  |
 
 ## Bonus
 
