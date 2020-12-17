@@ -214,6 +214,7 @@ Different scripts for day 25,
 | 14  |   S/S    | bits iteration                  |
 | 15  |   S/S    | iteration                       |
 | 16  |   S/S    | filter/match                    |
+| 17  |   S/S    | 3d/4d life games simulation     |
 
 ## Bonus
 
