@@ -213,6 +213,7 @@ Different scripts for day 25,
 | 13  |   S/M    | find min/number theory          |
 | 14  |   S/S    | bits iteration                  |
 | 15  |   S/S    | iteration                       |
+| 16  |   S/S    | filter/match                    |
 
 ## Bonus
 
