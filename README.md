@@ -216,6 +216,7 @@ Different scripts for day 25,
 | 16  |   S/S    | filter/match                    |
 | 17  |   S/S    | 3d/4d life games simulation     |
 | 18  |   S/S    | arithmetic ast                  |
+| 19  |   S/M    | regexp tree/special convertion  |
 
 ## Bonus
 
