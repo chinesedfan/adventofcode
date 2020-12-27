@@ -218,6 +218,7 @@ Different scripts for day 25,
 | 18  |   S/S    | arithmetic ast                  |
 | 19  |   S/M    | regexp tree/special convertion  |
 | 23  |   S/-    | array iteration                 |
+| 24  |   S/S    | hex flip/life game simulation   |
 
 ## Bonus
 
