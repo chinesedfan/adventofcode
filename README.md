@@ -220,7 +220,7 @@ Different scripts for day 25,
 | 20  |   S/H    | picture matching/pattern search |
 | 21  |   M/S    | analyze insets                  |
 | 22  |   S/S    | cards array iteration           |
-| 23  |   S/-    | array iteration                 |
+| 23  |   S/S    | array iteration                 |
 | 24  |   S/S    | hex flip/life game simulation   |
 | 25  |   S/-    | number iteration                |
 
