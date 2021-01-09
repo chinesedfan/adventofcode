@@ -217,6 +217,7 @@ Different scripts for day 25,
 | 17  |   S/S    | 3d/4d life games simulation     |
 | 18  |   S/S    | arithmetic ast                  |
 | 19  |   S/M    | regexp tree/special convertion  |
+| 20  |   S/H    | picture matching/pattern search |
 | 21  |   M/S    | analyze insets                  |
 | 22  |   S/S    | cards array iteration           |
 | 23  |   S/-    | array iteration                 |
