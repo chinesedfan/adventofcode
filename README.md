@@ -194,7 +194,8 @@ Different scripts for day 25,
 
 </details>
 
-### 2020
+<details>
+  <summary>2020</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
@@ -223,6 +224,16 @@ Different scripts for day 25,
 | 23  |   S/S    | array iteration                 |
 | 24  |   S/S    | hex flip/life game simulation   |
 | 25  |   S/-    | number iteration                |
+
+</details>
+
+### 2021
+
+| day | hardness | keywords                        |
+| --- |:--------:| -------------------------------:|
+|  1  |   S/S    | iteration                       |
+|  2  |   S/S    | iteration                       |
+|  3  |   S/S    | count and filter strings        |
 
 ## Bonus
 
