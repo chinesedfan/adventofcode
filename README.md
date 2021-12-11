@@ -236,6 +236,9 @@ Different scripts for day 25,
 |  3  |   S/S    | count and filter strings        |
 |  4  |   S/S    | simulate game                   |
 |  5  |   S/S    | count grid points               |
+|  6  |   S/M    | simulate list/calculate         |
+|  7  |   S/S    | midpoint/find best position     |
+|  8  |   S/M    | filter length/analyse mapping   |
 
 ## Bonus
 
