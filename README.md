@@ -234,6 +234,8 @@ Different scripts for day 25,
 |  1  |   S/S    | iteration                       |
 |  2  |   S/S    | iteration                       |
 |  3  |   S/S    | count and filter strings        |
+|  4  |   S/S    | simulate game                   |
+|  5  |   S/S    | count grid points               |
 
 ## Bonus
 
