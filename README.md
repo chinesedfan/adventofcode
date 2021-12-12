@@ -241,6 +241,7 @@ Different scripts for day 25,
 |  8  |   S/M    | filter length/analyse mapping   |
 |  9  |   S/S    | filter points/bfs               |
 | 10  |   S/S    | brackets matching               |
+| 11  |   S/S    | simulate grid                   |
 
 ## Bonus
 
