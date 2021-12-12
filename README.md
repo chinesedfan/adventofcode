@@ -240,6 +240,7 @@ Different scripts for day 25,
 |  7  |   S/S    | midpoint/find best position     |
 |  8  |   S/M    | filter length/analyse mapping   |
 |  9  |   S/S    | filter points/bfs               |
+| 10  |   S/S    | brackets matching               |
 
 ## Bonus
 
