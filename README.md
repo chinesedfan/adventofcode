@@ -242,6 +242,7 @@ Different scripts for day 25,
 |  9  |   S/S    | filter points/bfs               |
 | 10  |   S/S    | brackets matching               |
 | 11  |   S/S    | simulate grid                   |
+| 12  |   S/S    | bfs to find ways                |
 
 ## Bonus
 
