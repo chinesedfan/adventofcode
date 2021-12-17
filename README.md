@@ -243,6 +243,7 @@ Different scripts for day 25,
 | 10  |   S/S    | brackets matching               |
 | 11  |   S/S    | simulate grid                   |
 | 12  |   S/S    | bfs to find ways                |
+| 13  |   S/S    | fold dots/print and see         |
 
 ## Bonus
 
