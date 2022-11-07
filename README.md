@@ -244,7 +244,7 @@ Different scripts for day 25,
 | 11  |   S/S    | simulate grid                   |
 | 12  |   S/S    | bfs to find ways                |
 | 13  |   S/S    | fold dots/print and see         |
-| 14  |   S/-    | iteration/                      |
+| 14  |   S/M    | iteration                       |
 
 ## Bonus
 
