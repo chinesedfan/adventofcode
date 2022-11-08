@@ -246,6 +246,7 @@ Different scripts for day 25,
 | 13  |   S/S    | fold dots/print and see         |
 | 14  |   S/M    | iteration                       |
 | 15  |   S/S    | shortest path                   |
+| 16  |   S/S    | parse packages                  |
 | 20  |   S/S    | iteration                       |
 
 ## Bonus
