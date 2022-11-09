@@ -247,6 +247,7 @@ Different scripts for day 25,
 | 14  |   S/M    | iteration                       |
 | 15  |   S/S    | shortest path                   |
 | 16  |   S/S    | parse packages                  |
+| 18  |   M/S    | brackets iteration              |
 | 20  |   S/S    | iteration                       |
 
 ## Bonus
