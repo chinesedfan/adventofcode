@@ -249,7 +249,7 @@ Different scripts for day 25,
 | 16  |   S/S    | parse packages                  |
 | 18  |   M/S    | brackets iteration              |
 | 20  |   S/S    | iteration                       |
-| 21  |   S/-    | simulate game                   |
+| 21  |   S/S    | simulate game                   |
 | 22  |   S/-    | cube overlap                    |
 
 ## Bonus
