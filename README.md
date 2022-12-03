@@ -227,6 +227,9 @@ Different scripts for day 25,
 
 </details>
 
+<details>
+  <summary>2021</summary>
+
 ### 2021
 
 | day | hardness | keywords                        |
@@ -247,10 +250,24 @@ Different scripts for day 25,
 | 14  |   S/M    | iteration                       |
 | 15  |   S/S    | shortest path                   |
 | 16  |   S/S    | parse packages                  |
+| 17  |   -/-    | simulate shoot                  |
 | 18  |   M/S    | brackets iteration              |
+| 19  |   -/-    | coordinates match               |
 | 20  |   S/S    | iteration                       |
 | 21  |   S/S    | simulate game                   |
 | 22  |   S/-    | cube overlap                    |
+| 23  |   -/-    | move boxes                      |
+| 24  |   -/-    | cpu                             |
+| 25  |   -/-    | simulate                        |
+
+</details>
+
+### 2022
+
+| day | hardness | keywords                        |
+| --- |:--------:| -------------------------------:|
+|  1  |   S/S    | find max                        |
+|  2  |   S/S    | RSP game                        |
 
 ## Bonus
 
