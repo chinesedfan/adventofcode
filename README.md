@@ -268,6 +268,7 @@ Different scripts for day 25,
 | --- |:--------:| -------------------------------:|
 |  1  |   S/S    | find max                        |
 |  2  |   S/S    | RSP game                        |
+|  3  |   S/S    | find same character             |
 
 ## Bonus
 
