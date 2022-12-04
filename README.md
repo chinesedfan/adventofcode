@@ -250,7 +250,7 @@ Different scripts for day 25,
 | 14  |   S/M    | iteration                       |
 | 15  |   S/S    | shortest path                   |
 | 16  |   S/S    | parse packages                  |
-| 17  |   -/-    | simulate shoot                  |
+| 17  |   S/S    | simulate shoot                  |
 | 18  |   M/S    | brackets iteration              |
 | 19  |   M/S    | coordinates match               |
 | 20  |   S/S    | iteration                       |
