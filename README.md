@@ -270,6 +270,7 @@ Different scripts for day 25,
 |  2  |   S/S    | RSP game                        |
 |  3  |   S/S    | find same character             |
 |  4  |   S/S    | segment overlap                 |
+|  5  |   S/S    | stack simulation                |
 
 ## Bonus
 
