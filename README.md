@@ -271,6 +271,7 @@ Different scripts for day 25,
 |  3  |   S/S    | find same character             |
 |  4  |   S/S    | segment overlap                 |
 |  5  |   S/S    | stack simulation                |
+|  6  |   S/S    | scan string                     |
 
 ## Bonus
 
