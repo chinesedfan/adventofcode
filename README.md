@@ -272,6 +272,8 @@ Different scripts for day 25,
 |  4  |   S/S    | segment overlap                 |
 |  5  |   S/S    | stack simulation                |
 |  6  |   S/S    | scan string                     |
+|  7  |   S/S    | file directory size, DFS        |
+|  8  |   S/S    | matrix scan                     |
 
 ## Bonus
 
