@@ -276,6 +276,7 @@ Different scripts for day 25,
 |  8  |   S/S    | matrix scan                     |
 | 10  |   S/S    | simple cpu/draw letters         |
 | 11  |   S/M    | simulation/keep reminders       |
+| 13  |   S/S    | compare lists                   |
 
 ## Bonus
 
