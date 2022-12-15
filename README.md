@@ -275,6 +275,7 @@ Different scripts for day 25,
 |  7  |   S/S    | file directory size, DFS        |
 |  8  |   S/S    | matrix scan                     |
 | 10  |   S/S    | simple cpu/draw letters         |
+| 11  |   S/M    | simulation/keep reminders       |
 
 ## Bonus
 
