@@ -274,8 +274,10 @@ Different scripts for day 25,
 |  6  |   S/S    | scan string                     |
 |  7  |   S/S    | file directory size, DFS        |
 |  8  |   S/S    | matrix scan                     |
+|  9  |   -/-    | rope positions                  |
 | 10  |   S/S    | simple cpu/draw letters         |
 | 11  |   S/M    | simulation/keep reminders       |
+| 12  |   S/S    | bfs                             |
 | 13  |   S/S    | compare lists                   |
 
 ## Bonus
