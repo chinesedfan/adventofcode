@@ -279,6 +279,8 @@ Different scripts for day 25,
 | 11  |   S/M    | simulation/keep reminders       |
 | 12  |   S/S    | bfs                             |
 | 13  |   S/S    | compare lists                   |
+| 14  |   -/-    | sand simulation                 |
+| 15  |   S/-    | count positions                 |
 
 ## Bonus
 
