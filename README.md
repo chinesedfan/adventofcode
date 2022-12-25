@@ -286,6 +286,7 @@ Different scripts for day 25,
 | 18  |   -/-    | count cube surfaces             |
 | 19  |   -/-    | build robots                    |
 | 20  |   M/S    | simulate list                   |
+| 21  |   S/M    | simulate/binary search          |
 
 ## Bonus
 
