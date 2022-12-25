@@ -281,6 +281,11 @@ Different scripts for day 25,
 | 13  |   S/S    | compare lists                   |
 | 14  |   -/-    | sand simulation                 |
 | 15  |   S/-    | count positions                 |
+| 16  |   -/-    | bfs                             |
+| 17  |   -/-    | tetris                          |
+| 18  |   -/-    | count cube surfaces             |
+| 19  |   -/-    | build robots                    |
+| 20  |   M/S    | simulate list                   |
 
 ## Bonus
 
