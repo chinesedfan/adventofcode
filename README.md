@@ -287,6 +287,7 @@ Different scripts for day 25,
 | 19  |   -/-    | build robots                    |
 | 20  |   M/S    | simulate list                   |
 | 21  |   S/M    | simulate/binary search          |
+| 22  |   S/-    | simulate moving                 |
 
 ## Bonus
 
