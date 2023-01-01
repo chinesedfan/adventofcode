@@ -289,8 +289,8 @@ Different scripts for day 25,
 | 21  |   S/M    | dfs/binary search               |
 | 22  |   S/-    | simulate moving                 |
 | 23  |   S/S    | grid iteration                  |
-| 24  |   -/-    |                                 |
-| 25  |   -/-    |                                 |
+| 24  |   -/-    | bfs                             |
+| 25  |   S/-    | base conversion                 |
 
 ## Bonus
 
