@@ -280,7 +280,7 @@ Different scripts for day 25,
 | 12  |   S/S    | bfs                             |
 | 13  |   S/S    | compare lists                   |
 | 14  |   M/M    | sand simulation                 |
-| 15  |   S/-    | count positions                 |
+| 15  |   S/M    | count positions/merge segments  |
 | 16  |   -/-    | bfs                             |
 | 17  |   -/-    | tetris                          |
 | 18  |   -/-    | count cube surfaces             |
