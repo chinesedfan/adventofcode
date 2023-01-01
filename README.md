@@ -274,7 +274,7 @@ Different scripts for day 25,
 |  6  |   S/S    | scan string                     |
 |  7  |   S/S    | file directory size, DFS        |
 |  8  |   S/S    | matrix scan                     |
-|  9  |   -/-    | rope positions                  |
+|  9  |   S/-    | rope positions                  |
 | 10  |   S/S    | simple cpu/draw letters         |
 | 11  |   S/M    | simulation/keep reminders       |
 | 12  |   S/S    | bfs                             |
@@ -285,10 +285,12 @@ Different scripts for day 25,
 | 17  |   -/-    | tetris                          |
 | 18  |   -/-    | count cube surfaces             |
 | 19  |   -/-    | build robots                    |
-| 20  |   M/S    | simulate list                   |
-| 21  |   S/M    | simulate/binary search          |
+| 20  |   M/S    | list iteration                  |
+| 21  |   S/M    | dfs/binary search               |
 | 22  |   S/-    | simulate moving                 |
-| 23  |   S/S    | simulate                        |
+| 23  |   S/S    | grid iteration                  |
+| 24  |   -/-    |                                 |
+| 25  |   -/-    |                                 |
 
 ## Bonus
 
