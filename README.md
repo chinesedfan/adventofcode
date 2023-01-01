@@ -288,6 +288,7 @@ Different scripts for day 25,
 | 20  |   M/S    | simulate list                   |
 | 21  |   S/M    | simulate/binary search          |
 | 22  |   S/-    | simulate moving                 |
+| 23  |   S/S    | simulate                        |
 
 ## Bonus
 
