@@ -258,7 +258,7 @@ Different scripts for day 25,
 | 22  |   S/-    | cube overlap                    |
 | 23  |   -/-    | move boxes                      |
 | 24  |   -/-    | cpu                             |
-| 25  |   -/-    | simulate                        |
+| 25  |   S/-    | simulate                        |
 
 </details>
 
