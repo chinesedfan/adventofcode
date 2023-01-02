@@ -255,7 +255,7 @@ Different scripts for day 25,
 | 19  |   M/S    | coordinates match               |
 | 20  |   S/S    | iteration                       |
 | 21  |   S/S    | simulate game                   |
-| 22  |   S/-    | cube overlap                    |
+| 22  |   S/H    | cube overlap/discretization     |
 | 23  |   -/-    | move boxes                      |
 | 24  |   -/-    | cpu                             |
 | 25  |   S/-    | simulate                        |
