@@ -283,7 +283,7 @@ Different scripts for day 25,
 | 15  |   S/M    | count positions/merge segments  |
 | 16  |   -/-    | bfs                             |
 | 17  |   -/-    | tetris                          |
-| 18  |   -/-    | count cube surfaces             |
+| 18  |   S/-    | count cube surfaces             |
 | 19  |   -/-    | build robots                    |
 | 20  |   M/S    | list iteration                  |
 | 21  |   S/M    | dfs/binary search               |
