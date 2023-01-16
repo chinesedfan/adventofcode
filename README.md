@@ -257,7 +257,7 @@ Different scripts for day 25,
 | 21  |   S/S    | simulate game                   |
 | 22  |   S/H    | cube overlap/discretization     |
 | 23  |   -/-    | move boxes                      |
-| 24  |   -/-    | cpu                             |
+| 24  |   H/S    | cpu analyse                     |
 | 25  |   S/-    | simulate                        |
 
 </details>
@@ -302,7 +302,8 @@ Released at [reddit](https://www.reddit.com/r/adventofcode/comments/72aizu/bonus
 ## Thanks to
 
 - [petertseng](https://github.com/petertseng), first met in [reddit](https://www.reddit.com/r/adventofcode/comments/5hoia9/2016_day_11_solutions/db1v1ws/) for 2016/day11, who also has full solutions in Ruby/Haskell/Rust/D.
-- [sguest](https://github.com/sguest/advent-of-code), for solving 2018/day22, with Javascript solutions of each year.
-- [albertobastos](https://github.com/albertobastos/advent-of-code-2018-nodejs), for solving 2018/day15, with partial solutions of 2018 in Javascript.
-- [kufii](https://github.com/kufii/Advent-Of-Code-2019-Solutions), provides a cool [website](https://kufii.github.io/Advent-Of-Code-2019-Solutions/) to show 2019 Javascript solutions.
+- [sguest](https://github.com/sguest/advent-of-code), for solving 2018/day22, with JavaScript solutions of each year.
+- [albertobastos](https://github.com/albertobastos/advent-of-code-2018-nodejs), for solving 2018/day15, with partial solutions of 2018 in JavaScript.
+- [kufii](https://github.com/kufii/Advent-Of-Code-2019-Solutions), provides a cool [website](https://kufii.github.io/Advent-Of-Code-2019-Solutions/) to show 2019 JavaScript solutions.
 - [mcpower](https://github.com/mcpower/adventofcode), also met in [reddit](https://www.reddit.com/r/adventofcode/comments/ee0rqi/2019_day_22_solutions/fbnkaju/) for 2019/day22, and has solutions for 2016(partial)/17/18/19 in Python/Rust.
+- [romellem](https://github.com/romellem/advent-of-code) for solving 2021/day24, with most of years in JavaScript.
