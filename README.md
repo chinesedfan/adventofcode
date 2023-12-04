@@ -2,14 +2,14 @@
 
 This project contains solutions for [Advent of Code](http://adventofcode.com/).
 
-The difficulty of these puzzles is much less than Online Judge problems'. Even you can calculate the answer by a pencil and paper. Test cases are very simple and examples include nearly everything that you need to care about.
+The difficulty of these puzzles is usually less than competitive programming problems, i.e. [CodeForces](https://codeforces.com). Even you can calculate the answer by a pencil and paper. Test cases are very simple and examples include nearly everything that you need to care about. But some of them is hard.
 
 And the author provides a very interesting website!
 
 ps.  
 - Remember to call `parseInt` when parsing the input by regular expressions.  
 - Do not try to find answers by binary search. The server will reject your submission after you have failed too much times.  
-- Solve puzzles by brute force searching if it is hard to find reasonable algorithms. Or go to [reddit](https://www.reddit.com/r/adventofcode/)
+- Solve puzzles by brute force searching if it is hard to find reasonable algorithms. Go to [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) or visit [reddit](https://www.reddit.com/r/adventofcode/) to get more hits.
 
 ## How to run
 
@@ -23,7 +23,7 @@ By default, `part` is `1`, and `YEAR` is the current year.
 For hardness: S(Simple), M(Middle), H(Hard).
 
 <details>
-  <summary>2015</summary>
+  <summary>2015 (Done!)</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
@@ -56,7 +56,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 </details>
 
 <details>
-  <summary>2016</summary>
+  <summary>2016 (Done!)</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
@@ -89,7 +89,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 </details>
 
 <details>
-  <summary>2017</summary>
+  <summary>2017 (Done!)</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
@@ -122,7 +122,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 </details>
 
 <details>
-  <summary>2018</summary>
+  <summary>2018 (Done!)</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
@@ -155,7 +155,7 @@ For hardness: S(Simple), M(Middle), H(Hard).
 </details>
 
 <details>
-  <summary>2019</summary>
+  <summary>2019 (Done!)</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
@@ -195,7 +195,7 @@ Different scripts for day 25,
 </details>
 
 <details>
-  <summary>2020</summary>
+  <summary>2020 (Done!)</summary>
 
 | day | hardness | keywords                        |
 | --- |:--------:| -------------------------------:|
