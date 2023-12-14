@@ -256,7 +256,7 @@ Different scripts for day 25,
 | 20  |   S/S    | iteration                       |
 | 21  |   S/S    | simulate game                   |
 | 22  |   S/H    | cube overlap/discretization     |
-| 23  |   -/-    | move boxes                      |
+| 23  |   M/-    | move boxes                      |
 | 24  |   H/S    | cpu analyse                     |
 | 25  |   S/-    | simulate                        |
 
